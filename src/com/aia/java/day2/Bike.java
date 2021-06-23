@@ -5,3 +5,4 @@ public class Bike extends Vehicle {
 		System.out.println("Bike is running");
 	}
 }
+
